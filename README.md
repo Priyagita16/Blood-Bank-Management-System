@@ -14,5 +14,4 @@ streamlines the processing of transfusion requests from patients. Furthermore, t
 robust analytics capabilities, that’s allows blood bank administrators to monitor donor and 
 patient records, and track donations.
 
-FRONTEND : VB.NET (VISUALSTUDIO 2022)
-BACKEND  : SQL SERVER
+FRONTEND : VB.NET (VISUALSTUDIO 2022)                                                                                                 BACKEND  : SQL SERVER
