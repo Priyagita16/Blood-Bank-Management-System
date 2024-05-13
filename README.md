@@ -13,3 +13,6 @@ blood types, ensuring a steady supply of safe blood for patients in need. Additi
 streamlines the processing of transfusion requests from patients. Furthermore, the system offers 
 robust analytics capabilities, that’s allows blood bank administrators to monitor donor and 
 patient records, and track donations.
+
+FRONTEND : VB.NET (VISUALSTUDIO 2022)
+BACKEND  : SQL SERVER
